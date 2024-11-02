@@ -1,0 +1,1 @@
+# pratikumP6.php
